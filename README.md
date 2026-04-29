@@ -71,19 +71,6 @@ Actualmente trabajo como **Fullstack Developer**, mientras me desempeño como do
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobephotoshop)
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat)
 
----
-
-## 📊 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU-USUARIO&theme=tokyonight" />
-</p>
-
----
 
 > “Un sistema claro vale más que uno complejo que nadie entiende.”
 
