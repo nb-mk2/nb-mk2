@@ -1,6 +1,6 @@
 # 👋 Nicolás Baudis
 <p align="center">
-  <b>Fullstack Developer</b> • <b>Docente Universitario</b>  
+  <b>Fullstack Developer</b> • <b>Profesor en Computación</b>  
 </p>
 
 <p align="center">
