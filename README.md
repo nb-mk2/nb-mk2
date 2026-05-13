@@ -1,10 +1,16 @@
 # 👋 Nicolás Baudis
 <p align="center">
-  <b>Fullstack Developer</b> • <b>Profesor en Computación</b>  
+  <b>Fullstack Developer</b> • <b>Profesor en Computación</b>
 </p>
 
 <p align="center">
-  🎓 Universidad Nacional de La Pampa  
+  🎓 Universidad Nacional de La Pampa
+</p>
+
+<p align="center">
+  <a href="mailto:nicobaudis99@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-nicobaudis99%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </p>
 
 ---
@@ -33,6 +39,7 @@ Actualmente trabajo como **Fullstack Developer**, mientras me desempeño como do
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel)
 ![JWT](https://img.shields.io/badge/-JWT-black?style=flat&logo=jsonwebtokens)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
@@ -43,12 +50,16 @@ Actualmente trabajo como **Fullstack Developer**, mientras me desempeño como do
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
 ### 🧩 Data
 ![Postgres](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![NocoDB](https://img.shields.io/badge/-NocoDB-3D83F5?style=flat)
 
 ### 🤖 IA & Automatización
 ![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat)
@@ -65,12 +76,15 @@ Actualmente trabajo como **Fullstack Developer**, mientras me desempeño como do
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel)
 ![PNPM](https://img.shields.io/badge/-PNPM-F69220?style=flat)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white)
 
 ### 🎨 Diseño
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobephotoshop)
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat)
 
+### 🎓 Plataformas
+![Moodle](https://img.shields.io/badge/-Moodle-F98012?style=flat&logo=moodle&logoColor=white)
 
 > “Un sistema claro vale más que uno complejo que nadie entiende.”
 
